@@ -1,0 +1,19 @@
+{
+  "name": "learn_myself",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hdtr23/learncodeweb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hdtr23/learncodeweb/issues"
+  },
+  "homepage": "https://github.com/hdtr23/learncodeweb#readme"
+}
